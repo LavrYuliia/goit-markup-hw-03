@@ -138,7 +138,8 @@ flex-basis:151px ;
 }
 .hero{
     background:var(--dark);
-    padding: 188px 473px;
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 
 .hero-title{
@@ -345,8 +346,7 @@ background-color:var(--press);
 }
 
 .portfolio-card{
-    padding-top: 32px;
-    padding-bottom: 32px;
+    padding: 32px 16px;
     border: 1px solid var(--accent);
     border-top: none;
 }
